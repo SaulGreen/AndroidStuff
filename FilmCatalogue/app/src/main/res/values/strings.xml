@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Film Catalogue</string>
+    <string name="instructions">Selecciona una pelicula para ver su portada.</string>
+</resources>

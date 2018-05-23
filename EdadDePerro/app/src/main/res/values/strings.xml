@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mi Edad De Perro</string>
+    <string name="instructions">Escribe tu edad y pulsa el chingado boton</string>
+    <string name="edit_text_hint">Edad</string>
+    <string name="main_activity_button_text">Click!</string>
+    <string name="answer">Tu edad de perro seria: %s</string>
+    <string name="error_message">No se inserto edad, usuario todo pendejo.</string>
+</resources>
